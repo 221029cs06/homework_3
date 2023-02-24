@@ -33,6 +33,7 @@ switch (sounds)
     case 'v':
     case 'w':
     case 'x':
+    case 'Y':
     case 'z':
     cout<<"Consonant";        
 
