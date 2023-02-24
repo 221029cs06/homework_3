@@ -1,17 +1,16 @@
 #include <iostream>
 using namespace std;
 int main(){
-char a; 
-cin>>a; 
-switch (a)
+char sounds; 
+cin>>sounds; 
+switch (sounds)
 {
     case 'a':
     case 'e':
     case 'i':
     case 'o':
     case 'u':
-    case 'y':
-    cout<<"Vowel";
+    cout<<"Vowel"<<endl;
     break;
     
     case 'b':
@@ -33,7 +32,7 @@ switch (a)
     case 'v':
     case 'w':
     case 'x':
-    case 'Y':
+    case 'y':
     case 'z':
     cout<<"Consonant";        
 
