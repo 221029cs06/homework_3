@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-char sounds; 
-cin>>sounds; 
-switch (sounds)
+char a; 
+cin>>a; 
+switch (a)
 {
     case 'a':
     case 'e':
