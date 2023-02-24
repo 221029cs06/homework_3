@@ -10,7 +10,8 @@ switch (sounds)
     case 'i':
     case 'o':
     case 'u':
-    cout<<"Vowel"<<endl;
+    case 'Y':    
+    cout<<"Vowel";
     break;
     
     case 'b':
